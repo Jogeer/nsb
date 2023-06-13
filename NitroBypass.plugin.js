@@ -4,8 +4,8 @@
  * @authorId 317210692702961664
  * @description User premium type bypass
  * @version 1.1.0
- * @source https://github.com/Jogeer/nsb/blob/main/NitroBypass.plugin.js
- * @updateUrl https://github.com/Jogeer/nsb/blob/main/NitroBypass.plugin.js
+ * @source https://raw.githubusercontent.com/Jogeer/nsb/main/NitroBypass.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Jogeer/nsb/main/NitroBypass.plugin.js
  */
 module.exports = (_ => {
 	var _this;
