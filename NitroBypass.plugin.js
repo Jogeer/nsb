@@ -1,17 +1,17 @@
 /**
- * @name NitroScreenBypass
+ * @name NitroBypass
  * @author Jogeer
  * @authorId 317210692702961664
  * @description User premium type bypass
  * @version 1.1.0
- * @source ...
- * @updateUrl ...
+ * @source https://github.com/Jogeer/nsb/blob/main/NitroBypass.plugin.js
+ * @updateUrl https://github.com/Jogeer/nsb/blob/main/NitroBypass.plugin.js
  */
 module.exports = (_ => {
 	var _this;
 	var _moduleUser;
 
-	return class NitroScreenBypass {
+	return class NitroBypass {
 		constructor(meta) {for (let key in meta) this[key] = meta[key]; _this = this;}
 		getName() { return this.name; }
 		getAuthor() { return this.author; }
